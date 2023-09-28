@@ -6,10 +6,21 @@
 `print('help please!!!')`
 ```
 
+```
+// блок коду
+var foo = 'bar';
+```
+
 ```javascript
 // підсвітка коду JavaScript
 var foo = 'bar';
 ```
+~~~
+```javascript
+// підсвітка коду JavaScript
+var foo = 'bar';
+```
+~~~
 
 Товар     | Ціна
 --------- | -----
