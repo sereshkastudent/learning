@@ -5,6 +5,7 @@
 ![alt](https://cojo.ru/wp-content/uploads/2023/01/kartinka-pomogite-3.webp)
 `print('help please!!!')`
 ```
+
 ```javascript
 // підсвітка коду JavaScript
 var foo = 'bar';
